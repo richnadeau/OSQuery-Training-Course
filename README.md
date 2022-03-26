@@ -1,1 +1,1 @@
-"# OSQuery-Training-Course" 
+# OSQuery-Training-Course
